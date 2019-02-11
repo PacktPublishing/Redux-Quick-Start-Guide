@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<div>
+  <label>
+    Enter Your Email
+  </label>
+  <input
+    name="email"
+    onChange={[Function]}
+    type="email"
+    value=""
+  />
+</div>
+`;
+
+exports[`should render correctly: initial state 1`] = `
+Object {
+  "value": "",
+}
+`;
+
+exports[`should render correctly: updated state 1`] = `
+Object {
+  "value": "skmu@hvl.no",
+}
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `<Alerts />`;
+
+exports[`should render correctly: dispatch function was called correctly 1`] = `
+Array [
+  Array [
+    Object {
+      "type": "REQUEST_ALERTS_LISTS",
+    },
+  ],
+]
+`;
