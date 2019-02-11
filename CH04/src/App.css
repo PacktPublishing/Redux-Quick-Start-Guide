@@ -1,0 +1,79 @@
+.app {
+  margin: 100px auto;
+  width: 900px;
+}
+.app > .todos {
+  background-color: #eeeeee;
+  border-radius: 5px;
+  padding: 30px;
+  border: 1px solid;
+  border-bottom-width: 2px;
+  border-color: rgba(0, 0, 0, 0.075);
+}
+.app > .todos .list-group-item {
+  padding: 0;
+  background: white;
+  margin-bottom: 0.2rem;
+}
+.app > .todos .list-group-item:hover {
+  cursor: pointer;
+  background-color: #fcfcfc;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+.app > .todos .list-group-item > .todo {
+  width: 80%;
+  padding: 10px 15px;
+  display: inline-block;
+}
+.app > .todos .list-group-item > .completed {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+.app > .todos .list-group-item > .close {
+  width: 25px;
+  margin-top: 7px;
+  float: right;
+}
+.app > .todos .capitalize {
+  text-transform: capitalize;
+}
+.app > .signature {
+  float: right;
+  font-size: 75%;
+  opacity: 0.8;
+  margin-right: 5px;
+  margin-top: 3px;
+}
+
+button {
+  outline: none !important;
+  padding: 1rem;
+  background: #bfd8bd;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  border-color: #eaeaea;
+}
+
+.form-control {
+  padding: 0.5625rem 0.625rem;
+  border-radius: 0.1875rem;
+  border: 1px solid #cbd6e2;
+  font-size: 16px;
+  font-size: 1rem;
+  transition: all 0.15s ease-out;
+  background-color: #f5f8fa;
+  color: #33475b;
+  display: block;
+  height: 2.5rem;
+  line-height: 1.375rem;
+  text-align: left;
+  vertical-align: middle;
+  width: 100%;
+  outline: none;
+}
+
+.form-control:focus {
+  border-color: rgba(0, 208, 228, 0.5);
+  box-shadow: 0 0 4px 1px rgba(0, 208, 228, 0.3), 0 0 0 1px #00d0e4;
+  outline: 0;
+}
