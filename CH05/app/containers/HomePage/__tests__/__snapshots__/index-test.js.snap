@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<div>
+  <h1>
+    This is home page our our application.
+  </h1>
+  <ul>
+    <li
+      className=""
+    >
+      <Link
+        to="/about"
+      >
+        About Us
+      </Link>
+    </li>
+    <li
+      className=""
+    >
+      <Link
+        to="/login"
+      >
+        Login
+      </Link>
+    </li>
+    <li
+      className=""
+    >
+      <Link
+        to="/register"
+      >
+        Register
+      </Link>
+    </li>
+    <li
+      className=""
+    >
+      <Link
+        to="/contact"
+      >
+        Contact
+      </Link>
+    </li>
+  </ul>
+</div>
+`;
