@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<A /> should match snapshot 1`] = `
+.c0 {
+  padding: 5px 15px;
+  display: inline-block;
+}
+
+<a
+  className="c0"
+  href="/"
+  id="hallo"
+  onClick={[Function]}
+>
+  test
+</a>
+`;

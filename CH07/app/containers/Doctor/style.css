@@ -1,0 +1,10 @@
+.form-doctor-containers {
+  width: 100%;
+  margin: auto;
+  max-width: 400px;
+  padding: 50px 10px;
+}
+
+.form-doctor-containers .center {
+  text-align: center;
+}

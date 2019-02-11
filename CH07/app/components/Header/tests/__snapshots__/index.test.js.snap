@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should match the snapshot 1`] = `
+<div>
+  <div
+    className="HeaderBg-sc-16vvcoi-0 ifBNKo"
+  />
+  <div
+    className="NavBar-sc-1wpiwr1-0 kkUnII"
+  >
+    <div>
+      <a
+        className="A-l5kgwr-0 gPjtpD"
+        href="/"
+        onClick={[Function]}
+      >
+        <img
+          alt="Rask Lege"
+          className="logo-header"
+          src="IMAGE_MOCK"
+        />
+      </a>
+    </div>
+    <div>
+      <a
+        className="HeaderLink-sc-1s6pcye-0 gNqNgI"
+        href="/register"
+        onClick={[Function]}
+      >
+        <span>
+          Register
+        </span>
+      </a>
+      <a
+        className="HeaderLink-sc-1s6pcye-0 gNqNgI"
+        href="/login"
+        onClick={[Function]}
+      >
+        <span>
+          Login
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+`;
