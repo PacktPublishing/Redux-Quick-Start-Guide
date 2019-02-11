@@ -1,0 +1,25 @@
+{
+  "name": "gettting-started-with-redux-ch01",
+  "version": "1.0.0",
+  "description": "Getting Started With Redux",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "Suresh KUMAR Mukhiya",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/preset-env": "7.2.0",
+    "@babel/preset-react": "7.0.0",
+    "babel-core": "6.26.3",
+    "babel-loader": "8.0.4",
+    "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "webpack": "4.27.1",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.10"
+  },
+  "dependencies": {
+    "redux": "4.0.1"
+  }
+}
