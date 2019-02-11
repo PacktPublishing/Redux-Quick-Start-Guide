@@ -1,0 +1,14 @@
+.form-user-containers {
+  width: 100%;
+  margin: auto;
+  padding: 50px 10px;
+}
+
+.edit-form-user-containers .ant-form-item-label {
+  line-height: 1;
+}
+
+.form-user-containers .add-user {
+  font-size: 80%;
+  margin-left: 10px;
+}

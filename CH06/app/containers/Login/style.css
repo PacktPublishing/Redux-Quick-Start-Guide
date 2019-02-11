@@ -1,0 +1,18 @@
+.form-login-containers {
+  width: 100%;
+  margin: auto;
+  max-width: 400px;
+  padding: 50px 10px;
+}
+
+.form-login-containers .center {
+  text-align: center;
+}
+
+.form-login-containers .ant-form-item-label {
+  line-height: 1;
+}
+
+.form-login-containers .ant-form-item-with-help {
+  margin-bottom: 0;
+}
