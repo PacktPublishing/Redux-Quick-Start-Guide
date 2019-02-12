@@ -4,7 +4,7 @@
   "description": "A starter boilerplate for react, redux application",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sureshHARDIYA/redux-book.git"
+    "url": "git://github.com/PacktPublishing/Redux-Quick-Start-Guide.git"
   },
   "engines": {
     "npm": ">=5",
@@ -13,10 +13,8 @@
   "author": "Suresh Kumar Mukhiya",
   "license": "MIT",
   "scripts": {
-    "start": "cross-env NODE_ENV=development node server",
-    "start:production": "npm run test && npm run build && npm run start:prod",
-    "start:prod": "cross-env NODE_ENV=production node server",
-    "test": "cross-env NODE_ENV=test jest"
+    "start": "node server",
+    "test": "jest"
   },
   "resolutions": {
     "babel-core": "7.0.0-bridge.0"
@@ -26,7 +24,6 @@
     "chalk": "2.4.1",
     "compression": "1.7.3",
     "connected-react-router": "4.5.0",
-    "cross-env": "5.2.0",
     "express": "4.16.4",
     "fontfaceobserver": "2.0.13",
     "history": "4.7.2",

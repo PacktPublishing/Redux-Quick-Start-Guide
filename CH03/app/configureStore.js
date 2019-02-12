@@ -17,14 +17,6 @@ export default function configureStore(initialState = {}, history) {
 
   // Extensions
   store.injectedReducers = {};
-  store.injectedSagas = {};
-
-  /* istanbul ignore next */
-  if (module.hot) {
-    module.hot.accept('./reducers', () => {
-      store.replaceReducer(createReducer(store.injectedReducers));
-    });
-  }
 
   return store;
 }
