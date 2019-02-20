@@ -2,6 +2,18 @@
 
 ## Lists of Topics
 
-- Need of Testing
-- Setting up the Redux
-- Redux -Store
+- Setting up with Jest
+- Testing ES6 Functions
+  - Testing a Function
+  - General testing scenario
+  - Time mocks
+- Testing React Components
+  - React component and mocking Component
+  - Multiple React Component
+  - Testing event handlers
+- Testing Redux
+  - Testing action creators
+  - Testing reducers
+  - Testing Higher order functions
+- Summary
+- Further Reading
