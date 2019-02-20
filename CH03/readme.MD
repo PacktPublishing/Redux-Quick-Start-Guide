@@ -7,3 +7,7 @@ The main topics covered in this chapter are given below:
 - Using `react-router-redux` in our application
 - Using `connected-react-router/immutable`
 - Further study
+
+## References
+
+- [`react-router-dom`](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
