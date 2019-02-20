@@ -24,5 +24,5 @@ To develop a scalable web application, project architecture, correct tooling and
 Any Web developer or UI/UX developers will be able to benefit from this book. The book will guide you seamlessly from beginner concept of setting up tools to advanced debugging concept. In addition to that, the book will enforce using TDD (Test Driven Development) paradigm that will help you to understand the logic easily and verify the code written is valid. In addition to that, the book will help you to create a fully production app ready to be hosted in server of your choice.
 
 # Contributors
-| ![Suresh Kumar Mukhiya](https://avatars1.githubusercontent.com/u/2022919?s=460&v=4) | James Lee | Tao Wei |
+| [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA) | James Lee | Tao Wei |
 |---|---|---|
