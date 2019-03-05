@@ -1,28 +1,69 @@
-# Redux-Quick-Start-Guide
-Redux Quick Start Guide, Published by PACKT.
+# Redux Quick Start Guide
 
-This book explores methodologies for developing a scalable modern web application using cutting edge front-end technologies. The book is intended for web developers, frontend developers and beginner programmers who want to use React and Redux to develop a modern web application. In this book, We will show you how you can integrate Redux with React and other front end JavaScript frameworks efficiently and manage application states effectively. Finally, we will explore the architecture of Redux-Saga and see how saga can be used in handling side effects.
+<a href="https://www.packtpub.com/web-development/redux-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789610086 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12860_1.png" alt="Redux Quick Start Guide" height="256px" align="right"></a>
+
+This is the code repository for [Redux Quick Start Guide](https://www.packtpub.com/web-development/redux-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789610086 ), published by Packt.
+
+**A beginner's guide to managing app state with Redux**
+
+## What is this book about?
+Starting with a detailed overview of Redux, we will follow the test-driven development (TDD) approach to develop single-page applications. We will set up JEST for testing and use JEST to test React, Redux, Redux-Sage, Reducers, and other components. We will then add important middleware and set up immutableJS in our application. We will use common data structures such as Map, List, Set, and OrderedList from the immutableJS framework. We will then add user interfaces using ReactJS, Redux-Form, and Ant Design.
+
+This book covers the following exciting features:
+Follow the test-driven development (TDD) approach to develop a single-page application 
+Add important middleware, such as Redux store middleware, redux-saga middleware, and language middleware, to your application 
+Understand how to use immutableJS in your application 
+Build interactive components using ReactJS 
+Configure react-router-redux and explore the differences between react-router-dom and react-router-redux 
+Use Redux Dev tools to debug your application 
+Set up our API server and create the API required for our application 
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-61008-7) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
+
+The code will look like the following:
+```
+import { BrowserRouter } from 'react-router-dom';
+ReactDOM.render(
+<BrowserRouter>
+<App />
+</BrowserRouter>,
+document.getElementById('root')
+);
+```
+
+**Following is what you need for this book:**
+This book is meant for JavaScript developers interesting in learning state management and building easy to maintain web applications.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
+### Software and Hardware List
+| Chapter | Software required | OS required |
+| -------- | ------------------------------------ | ----------------------------------- |
+| 1 | node.js | Windows, Mac OS X |
+| 2 | MongoDB | Windows, Mac OS X |
+| 3 | Yarn | Windows, Mac OS X |
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
+
+### Related products
+* Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1789610257)
+
+*  [[Packt]](https://www.packtpub.com/web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783980729)
 
 
-# Chapters
 
-- Chapter 1: [Understanding Redux](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH01)
-- Chapter 2: [Testing](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH02)
-- Chapter 3: [Routing](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH03)
-- Chapter 4: [Concept of Immutability](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH04)
-- Chapter 5: [React With Redux](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH05)
--  Chapter 6: [Extending Redux by Middleware](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH06)
-- Chapter 7: [Debugging Redux](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH07)
-- Chapter 8: [Understanding REST API](https://github.com/PacktPublishing/Redux-Quick-Start-Guide/tree/master/CH08)
+## Get to Know the Author
+**James Lee**
+is a passionate software wizard working at one of the top Silicon Valley-based start-ups specializing in big data analysis. He has also worked at Google and Amazon. In his day job, he works with big data technologies, including Cassandra and Elasticsearch, and is an absolute Docker geek and IntelliJ IDEA lover. Apart from his career as a software engineer, he is keen on sharing his knowledge with others and guiding them, especially in relation to start-ups and programming. He has been teaching courses and conducting workshops on Java programming / IntelliJ IDEA since he was 21. James also enjoys skiing and swimming, and is a passionate traveler.
 
 
-# Key Problems Developers deals With
-To develop a scalable web application, project architecture, correct tooling and use of right stack is very important. With numerous options, developers easily gets confused about the choice of database, choice of frontend technologies, types of module bundler to use and so on. In this book, we will guide users though single application architecture paradigm using cutting edge technology  ReactJS with Redux for state management and Redux-Saga for handling side effects.
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
-# Audience
-Any Web developer or UI/UX developers will be able to benefit from this book. The book will guide you seamlessly from beginner concept of setting up tools to advanced debugging concept. In addition to that, the book will enforce using TDD (Test Driven Development) paradigm that will help you to understand the logic easily and verify the code written is valid. In addition to that, the book will help you to create a fully production app ready to be hosted in server of your choice.
-
-# Contributors
-| [Suresh Kumar Mukhiya](https://github.com/sureshHARDIYA) | [James Lee](https://github.com/jleetutorial) | Tao Wei |
-|---|---|---|
