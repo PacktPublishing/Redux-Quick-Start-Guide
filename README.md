@@ -10,13 +10,12 @@ This is the code repository for [Redux Quick Start Guide](https://www.packtpub.c
 Starting with a detailed overview of Redux, we will follow the test-driven development (TDD) approach to develop single-page applications. We will set up JEST for testing and use JEST to test React, Redux, Redux-Sage, Reducers, and other components. We will then add important middleware and set up immutableJS in our application. We will use common data structures such as Map, List, Set, and OrderedList from the immutableJS framework. We will then add user interfaces using ReactJS, Redux-Form, and Ant Design.
 
 This book covers the following exciting features:
-Follow the test-driven development (TDD) approach to develop a single-page application 
-Add important middleware, such as Redux store middleware, redux-saga middleware, and language middleware, to your application 
-Understand how to use immutableJS in your application 
-Build interactive components using ReactJS 
-Configure react-router-redux and explore the differences between react-router-dom and react-router-redux 
-Use Redux Dev tools to debug your application 
-Set up our API server and create the API required for our application 
+
+* Follow the test-driven development (TDD) approach to develop a single-page application 
+* Add important middleware, such as Redux store middleware, redux-saga middleware, and language middleware, to your application 
+* Understand how to use immutableJS in your application 
+* Build interactive components using ReactJS 
+* Configure react-router-redux and explore the differences between react-router-dom and react-router-redux 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-61008-7) today!
 
