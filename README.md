@@ -55,7 +55,7 @@ With the following software and hardware list you can run all code files present
 
 
 
-## Get to Know the AuthorS
+## Get to Know the Authors
 **James Lee**
 is a passionate software wizard working at one of the top Silicon Valley-based start-ups specializing in big data analysis. He has also worked at Google and Amazon. In his day job, he works with big data technologies, including Cassandra and Elasticsearch, and is an absolute Docker geek and IntelliJ IDEA lover. Apart from his career as a software engineer, he is keen on sharing his knowledge with others and guiding them, especially in relation to start-ups and programming. He has been teaching courses and conducting workshops on Java programming / IntelliJ IDEA since he was 21. James also enjoys skiing and swimming, and is a passionate traveler.
 
