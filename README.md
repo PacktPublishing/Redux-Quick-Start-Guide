@@ -47,7 +47,6 @@ With the following software and hardware list you can run all code files present
 | 6,7 | MongoDB | Windows, Mac OS X |
 | 8 | Yarn | Windows, Mac OS X |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
 * Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1789610257)
