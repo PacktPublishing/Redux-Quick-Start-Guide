@@ -56,11 +56,14 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 
-## Get to Know the Author
+## Get to Know the AuthorS
 **James Lee**
 is a passionate software wizard working at one of the top Silicon Valley-based start-ups specializing in big data analysis. He has also worked at Google and Amazon. In his day job, he works with big data technologies, including Cassandra and Elasticsearch, and is an absolute Docker geek and IntelliJ IDEA lover. Apart from his career as a software engineer, he is keen on sharing his knowledge with others and guiding them, especially in relation to start-ups and programming. He has been teaching courses and conducting workshops on Java programming / IntelliJ IDEA since he was 21. James also enjoys skiing and swimming, and is a passionate traveler.
 
+**Tao Wei**
+is a passionate software engineer who works in a leading Silicon Valley-based big data analysis company. Previously, Tao worked in big IT companies, including IBM and Cisco. He has intensive experience in designing and building distributed, large-scale systems with proven high availability and reliability. Tao has an MS degree in computer science from McGill University and many years' experience as a teaching assistant in a variety of computer science classes. In his spare time, he enjoys reading and swimming, and is a passionate photographer.
 
+**Suresh Kumar Mukhiya** is a PhD candidate, currently affiliated to the Western Norway University of Applied Sciences (HVL). He is a big data enthusiast, specializing in information systems, model-driven software engineering, big data analysis, and artificial intelligence. He has completed a Masters in information systems from the Norwegian University of Science and Technology, along with a thesis in processing mining. He also holds a bachelor's degree in computer science and information technology (BSc.CSIT) from Tribhuvan University, Nepal, where he was decorated with the Vice-Chancellor's Award for obtaining the highest score. He is a passionate photographer and enjoys traveling.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
