@@ -43,9 +43,9 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1 | node.js | Windows, Mac OS X |
-| 2 | MongoDB | Windows, Mac OS X |
-| 3 | Yarn | Windows, Mac OS X |
+| 1-5 | node.js | Windows, Mac OS X |
+| 6,7 | MongoDB | Windows, Mac OS X |
+| 8 | Yarn | Windows, Mac OS X |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
