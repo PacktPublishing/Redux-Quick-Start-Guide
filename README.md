@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1789610257)
 
-*  [[Packt]](https://www.packtpub.com/web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783980729)
+* React Cookbook  [[Packt]](https://www.packtpub.com/web-development/react-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783980727) [[Amazon]](https://www.amazon.com/dp/1783980729)
 
 
 
